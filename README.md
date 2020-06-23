@@ -1,1 +1,1 @@
-Porting MojoHaus RPM Maven Plugin(https://github.com/mojohaus/rpm-maven-plugin) to Gradle plugin using Gradle Kotlin DSL
+Maven RPM builder plugin (https://github.com/ctron/rpm-builder) to Gradle plugin using Gradle Kotlin DSL
